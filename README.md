@@ -44,10 +44,7 @@ To run this project, ensure you have the following dependencies installed:
 ## Usage
 ### Running the Processing Script
 1. **Modify the input file:** Ensure the input file (`data/sample_input.csv`) contains a column with university names.
-2. **Run the script:**
-   ```bash
-   python geocoding_script.py
-   ```
+2. **Run the Jupyter Notebook:**
 3. **Output Files:**
    - `data/sample_output.csv`: Processed data with latitude, longitude, and additional metadata.
    - `data/sample_output.xlsx`: Excel version of the processed data.
