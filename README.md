@@ -62,9 +62,6 @@ To run this project, ensure you have the following dependencies installed:
 - **Error Handling:** Failed requests are logged and retried to ensure smooth processing.
 - **Performance Considerations:** Processing is done in **chunks of 100 rows** to handle large datasets efficiently.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any questions or improvements, please create an issue or contact the repository owner.
 
